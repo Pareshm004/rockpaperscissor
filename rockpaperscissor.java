@@ -18,6 +18,7 @@ public class Main {
         }else{
             System.out.println("Computer Wins, better luck next time");
         }
-        System.out.println("Computer choice :" + compInput);
+        System.out.println("Computer choice was :" + compInput);
+        System.out.println("Thankyou for playing.");
         }
     }
